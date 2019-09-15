@@ -1,0 +1,13 @@
+h1{
+    margin-left: 100px;
+}
+.col-sm-12{
+    display: inline-block !important;
+    max-width: 33%;
+}
+.row{
+    margin-left: 10px;
+}
+table{
+    max-width: 100%;
+}

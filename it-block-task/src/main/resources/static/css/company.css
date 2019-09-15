@@ -1,0 +1,16 @@
+h1{
+   margin-left: 100px;
+   margin-top: 10px;
+}
+p{
+    margin-left: 50px;
+    font-size: 20;
+}
+img{
+    
+    height: 300px;
+}
+.row{
+    margin-left: 20px;
+    width: 95%;
+}
